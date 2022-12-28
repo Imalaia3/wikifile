@@ -1,3 +1,7 @@
+### Github Note ###
+To run the reader I've prepared a simple wf.file that
+can be decoded by running `./reader.py test.wf`
+
 WIKIFILE (wf) FORMAT:
 
 
